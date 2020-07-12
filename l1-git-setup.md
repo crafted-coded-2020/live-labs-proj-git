@@ -71,3 +71,4 @@ MySQL Community Server 8.0.20 [ set root user password as "mysql" ]	https://dev.
 https://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.37/bin/apache-tomcat-9.0.37-windows-x64.zip
 
 :beginner: **sts4**  
+https://download.springsource.com/release/STS4/4.7.0.RELEASE/dist/e4.16/spring-tool-suite-4-4.7.0.RELEASE-e4.16.0-win32.win32.x86_64.self-extracting.jar
