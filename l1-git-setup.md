@@ -69,3 +69,5 @@ MySQL Community Server 8.0.20 [ set root user password as "mysql" ]	https://dev.
 
 :beginner: **apache download**  
 https://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.37/bin/apache-tomcat-9.0.37-windows-x64.zip
+
+:beginner: **sts4**  
