@@ -63,4 +63,6 @@ git clone "https://github.com/live-git-subbus/labs-proj.git"
     git push
 ```
 
+:beginner: **MySQL Software**  
+
 MySQL Community Server 8.0.20 [ set root user password as "mysql" ]	https://dev.mysql.com/downloads/file/?id=495322
