@@ -1,3 +1,6 @@
+:beginner: **Lab 2** Implement setter and constructor di together using `ld1c-xml-di-setter`
+
+
 :beginner: **Lab 1**
 
 :lock:  Analyze the enterprise project skeleton
@@ -12,3 +15,5 @@
 
 :key: Write down the description for all the steps
 ![](img/spring-core-workflow.png)  
+
+
