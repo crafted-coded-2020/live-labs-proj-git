@@ -8,3 +8,4 @@
 4. embed tomcat, jetty or Undertow
 5. configures 3rd party libraries automatically (ex.hibernate)
 6. no requirement for xml configuration
+
