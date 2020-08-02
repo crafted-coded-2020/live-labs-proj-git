@@ -19,3 +19,35 @@
 - ex : springboot (backend)can create the product restful services & angular or react (front) can consume these web servies.
 
 `What are we building : RESTful Web Services`
+
+:beginner: **Dependencies** 
+
+Provides fast application restarts, LiveReload, and configurations for enhanced development experience.
+
+```xml
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
+```
+
+
+Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+
+```xml
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+```
+
+Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.
+
+```xml
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
+```
